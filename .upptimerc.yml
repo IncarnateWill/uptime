@@ -41,7 +41,7 @@ status-website:
   name: Raphtalia
   introTitle: "**Raphtalia uptime monitor**"
   status-website:
-  theme: dark
+  theme: ocean
   introMessage: Check the uptime of the bot and the Lavalink servers
   navbar:
     - title: Status
