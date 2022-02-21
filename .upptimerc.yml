@@ -5,16 +5,32 @@ repo: uptime # The name of this repository
 sites:
   - name: Raphtalia
     check: "tcp-ping"
-    url: 62.171.137.36
+    url: main.raphtalia.fun
     port: 27017
   - name: Webserver
     check: "tcp-ping"
-    url: 62.171.137.36
+    url: ws.raphtalia.fun
     port: 27017
   - name: Ge-1
     check: "tcp-ping"
     url: ge1.raphtalia.fun
     port: 20029
+  - name: Ge-2
+    check: "tcp-ping"
+    url: ge2.raphtalia.fun
+    port: 32324
+  - name: Ge-3
+    check: "tcp-ping"
+    url: ge3.raphtalia.fun
+    port: 25571
+  - name: Us-1
+    check: "tcp-ping"
+    url: us1.raphtalia.fun
+    port: 2124
+  - name: As-1
+    check: "tcp-ping"
+    url: as1.raphtalia.fun
+    port: 3000
 
 
 status-website:
