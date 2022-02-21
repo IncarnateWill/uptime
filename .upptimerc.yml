@@ -32,6 +32,8 @@ sites:
     url: as1.raphtalia.fun
     port: 3000
 
+i18n:
+  footer: [Support server](https://support.raphtalia.fun)
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -46,7 +48,3 @@ status-website:
   navbar:
     - title: Status
       href: /
-i18n:
-  footer: [Support server](https://support.raphtalia.fun)
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
