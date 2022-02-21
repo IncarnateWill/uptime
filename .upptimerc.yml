@@ -36,7 +36,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /uptime
+  cname: status.raphtalia.fun
   logoUrl: https://res.cloudinary.com/teepublic/image/private/s--FT3uHZOx--/c_fit,g_north_west,h_798,w_840/co_000000,e_outline:40/co_000000,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1555441707/production/designs/4652846_0.jpg
   name: Upptime
   introTitle: "**Raphtalia uptime monitor**"
