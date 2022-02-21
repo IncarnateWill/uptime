@@ -33,7 +33,7 @@ sites:
     port: 3000
 
 i18n:
-  footer: Join the [Support server](https://support.raphtalia.fun)
+  footer: Join the [Support server](https://discord.gg/zjuy7tMqtz)
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
