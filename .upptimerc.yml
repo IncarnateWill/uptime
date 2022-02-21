@@ -47,6 +47,6 @@ status-website:
     - title: Status
       href: /
 i18n:
-  footer: 
+  footer: [Support server](https://support.raphtalia.fun)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
