@@ -38,14 +38,19 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.raphtalia.fun
   logoUrl: https://res.cloudinary.com/teepublic/image/private/s--FT3uHZOx--/c_fit,g_north_west,h_798,w_840/co_000000,e_outline:40/co_000000,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1555441707/production/designs/4652846_0.jpg
-  name: Upptime
+  name: Raphtalia
   introTitle: "**Raphtalia uptime monitor**"
   status-website:
-  theme: night
+  theme: dark
   introMessage: Check the uptime of the bot and the Lavalink servers
   navbar:
     - title: Status
       href: /
+  customHeadHtml:"<meta charset="UTF-8">
+  <meta name="description" content="Raphtalia status page">
+  <meta name="keywords" content="Raphtalia,Status page,Fun,Discord,Bot,Music,Lavalink,Raphtalia status">
+  <meta name="author" content="IncarnateWill">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
