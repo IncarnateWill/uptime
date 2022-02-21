@@ -46,7 +46,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-  customHeadHtml:"<meta name="keywords" content="Raphtalia,Status page,Fun,Discord,Bot,Music,Lavalink,Raphtalia status">"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
