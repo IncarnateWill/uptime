@@ -6,11 +6,11 @@ sites:
   - name: Raphtalia
     check: "tcp-ping"
     url: main.raphtalia.fun
-    port: 27017
+    port: 22223
   - name: Webserver
     check: "tcp-ping"
     url: ws.raphtalia.fun
-    port: 27017
+    port: 22223
   - name: Ge-1
     check: "tcp-ping"
     url: ge1.raphtalia.fun
